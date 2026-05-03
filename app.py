@@ -1,6 +1,6 @@
 """
 AgroEco IA — Cromatografía de Suelos con Inteligencia Artificial
-Desarrollado por ATACABCO · Medellín, Antioquia, Colombia
+Desarrollado por Anna Muñoz · Medellín, Antioquia, Colombia
 """
 
 import streamlit as st
